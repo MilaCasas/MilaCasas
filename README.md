@@ -45,7 +45,7 @@ Aquí en GitHub encontrarás los trabajos realizados durante mis formaciones:
 ---
 
 ## 📫 Contacto
-- **LinkedIn:**(https://www.linkedin.com/in/mila-casas/)
-- **Email:** [milacasasconsulting@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mila-casas/
+- **Email:** milacasasconsulting@gmail.com
 
 -->
